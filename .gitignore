@@ -141,3 +141,6 @@ gradle-app.setting
 /.idea/
 /credentials/repo.properties
 /common.iml
+
+# Block protobuf generated files
+/src/main/java/com/proto/user/*.java
