@@ -144,3 +144,6 @@ gradle-app.setting
 
 # Block protobuf generated files
 /src/main/java/com/proto/user/*.java
+
+# Block gradle wrapper
+!/gradlew
